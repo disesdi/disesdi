@@ -1,6 +1,6 @@
 # <div align="center">hi! i'm Disesdi Susanna. 🖤🕷</div>
 
-## <div align="center">i am a security researcher, AI/ML architect, & former political operative with extensive innovation, leadership, public policy & communications experience.</div>
+## <div align="center">security researcher, AI/ML architect, & former political operative with extensive innovation, leadership, public policy & communications experience.</div>
 
 
 <div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of information warfare. 🕷</div> 
