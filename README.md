@@ -66,6 +66,10 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 
 <div align="center">Exploring machine learning attacks on Physical Unclonable Functions (PUFs), a proposed authentication method for resource-constrained and security-vulnerable applications such as Unmanned Aircraft Systems (UAS), and Internet of Things (IOT) devices</div>
   
+### <div align="center">[Steganography Detection with Machine Learning](https://github.com/disesdi/steganography_detection_with_machine_learning)</div>
+
+<div align="center">Scalable functions for detecting malicious Least Significant Bit (LSB) insertion steganography with machine learning</div>
+  
 ### <div align="center">[Semantic Space and Size](https://github.com/disesdi/semantic_space_and_size)</div>
 
 <div align="center">A proof-of-concept for evaluating cultural bias on small corpora using cosine similarity and Word2Vec neural networks, extending the Word Embedding Association Test (WEAT) framework proposed in 2016 by Caliskan et al</div>
