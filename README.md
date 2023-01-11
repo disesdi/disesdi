@@ -37,13 +37,13 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 
 # <div align="center">🕷 certifications:</div>
 
-<div align="center">IBM Advanced Machine Learning and Signal Processing</div>
-<div align="center">IBM Fundamentals of Scalable Data Science</div>
-<div align="center">IBM Cybersecurity Analyst Professional Certificate</div>
+<div align="center">[IBM Advanced Machine Learning and Signal Processing](https://coursera.org/share/7ef2b00df6dff3e4837cd980a74ef138)</div>
+<div align="center">[IBM Fundamentals of Scalable Data Science](https://coursera.org/share/b0389dd5ca7e246805a79dda54518496)</div>
+<div align="center">[IBM Cybersecurity Analyst Professional Certificate](https://coursera.org/share/4bd37a1bb4105987db5ac4c89e2376b2)</div>
 <div align="center">Python for Cybersecurity Specialization - Infosec Institute</div>
-<div align="center">Palo Alto Networks Cybersecurity Foundations</div>
+<div align="center">[Palo Alto Networks Cybersecurity Foundations](https://www.coursera.org/account/accomplishments/verify/AKCVN7NW9L2P?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</div>
 <div align="center">Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado</div>
-<div align="center">Digitalisation in Aeronautics - Technical University Munich</div>
+<div align="center">[Digitalisation in Aeronautics - Technical University Munich](https://www.coursera.org/account/accomplishments/verify/CLFHURZT5P27?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)</div>
   
 -------
 
