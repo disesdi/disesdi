@@ -74,13 +74,13 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 
 <div align="center">A proof-of-concept for evaluating cultural bias on small corpora using cosine similarity and Word2Vec neural networks, extending the Word Embedding Association Test (WEAT) framework proposed in 2016 by Caliskan et al</div>
 
+### <div align="center">[Echo Sequences with Long Short-Term Memory (LSTM) Networks](https://github.com/disesdi/echo_sequence_lstm)</div>
+
+<div align="center">Demonstrating the persistent memory of recurrent neural network (RNN) Encoder-Decoder LSTMs via their ability to "remember" randomly generated number sequences, with custom-generated data and encoding, implemented with Keras</div>
+  
 ### <div align="center">[Auto Axelrod Tournament Generator](https://github.com/disesdi/auto_axelrod)</div>
 
 <div align="center">A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results</div>
-
-### <div align="center">[Echo Sequences with Long Short-Term Memory (LSTM) Networks](https://github.com/disesdi/echo_sequence_lstm)</div>
-
-<div align="center">Demonstrating the persistent memory of recurrent neural network (RNN) Encoder-Decoder LSTMs via their ability to "remember" randomly generated number sequences, with custom-generated data and encoding, implemented using the Keras library</div>
 
 -------
  
