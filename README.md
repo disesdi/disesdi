@@ -1,4 +1,4 @@
-# <div align="center">hi! i'm Disesdi Susanna. 🖤🕷</div>
+# <div align="center">hi! i'm Disesdi Susanna. 🕷</div>
 
 ## <div align="center">security researcher, AI/ML architect, & former political operative with extensive innovation, leadership, public policy & communications experience.</div>
 
@@ -11,7 +11,7 @@
 
 ### <div align="center">writing at [anglesofattack.io](https://anglesofattack.io)</div>
 
-### <div align="center">pronouns: any 🖤</div>
+### <div align="center">pronouns: any</div>
 -------
 
 ### <div align="center">find me on Twitter [@disesdi](https://twitter.com/disesdi) 
