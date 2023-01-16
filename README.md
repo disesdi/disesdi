@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-# <div align="center">🕷 projects:</div>
+# <div align="center">🕷 a few of my projects:</div>
 
 
 ### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)</div>
