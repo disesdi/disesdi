@@ -6,7 +6,7 @@
 ## <div align="center">security researcher, AI/ML architect, & former political operative with extensive innovation, leadership, public policy & communications experience.</div>
 
 
-<div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of </div> **<div align="center">aviation</div>**  & **information warfare**.</div> 
+<div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of \**aviation\**  & **information warfare**.</div> 
 
 <div align="center">🕷</div>
 
