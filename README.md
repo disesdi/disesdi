@@ -3,7 +3,7 @@
 ## <div align="center">i mostly think about MLSecOps, data science & security.</div>
 
 
-#### <div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of *aerospace* and *information warfare*. ᏣᎳᎩ ᎠᏥᎸ ᏗᎯᎴᎩ.</div> 
+#### <div align="center">i apply machine learning to security problems. i am particularly interested in the machine learning aspects of *aerospace* and *information warfare*. ᏣᎳᎩ ᎠᏥᎸ ᏗᎯᎴᎩ.</div> 
 
 <div align="center">🕷</div>
 
