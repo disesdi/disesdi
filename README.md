@@ -1,4 +1,4 @@
-# <div align="center">welcome to my github. 🕷</div>
+# <div align="center">welcome to my github.</div>
 
 ## <div align="center">i mostly think about MLSecOps, data science & security.</div>
 
@@ -35,10 +35,10 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 -------
 
 ### <div align="center" style="color:#1c1917;">🕷 find my resume *[here](https://anglesofattack.io/disesdi_susanna_resume.pdf)*</div>
-
+ 
 -------
 
-# <div align="center">🕷 certifications:</div>
+# <div align="center">certifications:</div>
 
 <div align="center">IBM Advanced Machine Learning and Signal Processing</div>
 <div align="center">IBM Fundamentals of Scalable Data Science</div>
@@ -50,7 +50,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-# <div align="center">🕷 a few of my projects:</div>
+# <div align="center">a few of my projects:</div>
 
 
 ### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)</div>
@@ -86,4 +86,5 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 <div align="center">A python game theory project to auto-generate multi-strategy Axelrod tournaments, & visualize their results</div>
 
 -------
- 
+
+<div align="center">🕷</div>
