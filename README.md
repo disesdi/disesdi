@@ -1,12 +1,9 @@
-# <div align="center">hi! i'm Disesdi Susanna. 🕷</div>
+# <div align="center">welcome to my github. 🕷</div>
 
-## <div align="center">ᏣᎳᎩ ᎠᏥᎸ ᏗᎯᎴᎩ</div>
-
-
-## <div align="center">security researcher, AI/ML architect, & former political operative with extensive innovation, leadership, public policy & communications experience.</div>
+## <div align="center">i mostly think about MLSecOps, data science & security.</div>
 
 
-### <div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of *aviation* & *information warfare*.</div> 
+#### <div align="center">i specialize in applying data science, machine learning, & artificial intelligence to better understand security, policy, and  socio-cultural themes. i am particularly interested in the mechanisms, security risks and machine learning aspects of *aerospace* and *information warfare*. ᏣᎳᎩ ᎠᏥᎸ ᏗᎯᎴᎩ.</div> 
 
 <div align="center">🕷</div>
 
@@ -29,7 +26,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
   <div align="center"><a href="https://www.linkedin.com/in/disesdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></div>
  
- -------
+-------
   
 <div align="center"><b>My GitHub Stats</b></div>
 
