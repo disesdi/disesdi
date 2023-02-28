@@ -57,6 +57,10 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 ### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)</div>
 
 <div align="center">An OODA Loop-based game theoretic model of information warfare in AI/ML systems, with boolean-path threat modeling & cyber resiliency metrics, + a secure, operationalized, platform-agnostic, fully audited debiasing architecture adapted to the canonical MLOps development cycle</div>
+  
+### <div align="center">[MLSecOps Reference Repository](https://github.com/disesdi/mlsecops_references)</div>
+
+<div align="center">A repo for some of the most influential papers, books, & other media on machine learning operations (MLOps), adversarial machine learning, AIML policy and compliance, & more.</div>
 
 ### <div align="center">[Password Entropy with Machine Learning](https://github.com/disesdi/password_entropy_with_machine_learning)</div>
 
