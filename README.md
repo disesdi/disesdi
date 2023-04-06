@@ -1,9 +1,7 @@
 # <div align="center">welcome to my github.</div>
 
-## <div align="center"> i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security.</div>
+## <div align="center"> i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, data science & security. ᏥᏣᎳᎩ.</div>
 
-
-### <div align="center">ᏣᎳᎩ ᎠᏥᎸ ᏗᎯᎴᎩ.</div> 
 
 <div align="center">🕷</div>
 
