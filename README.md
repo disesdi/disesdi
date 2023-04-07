@@ -33,10 +33,6 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-### <div align="center" style="color:#1c1917;">🕷 find my resume *[here](https://anglesofattack.io/disesdi_susanna_resume.pdf)*</div>
- 
--------
-
 # <div align="center">certifications:</div>
 
 <div align="center">IBM Advanced Machine Learning and Signal Processing</div>
