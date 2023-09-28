@@ -1,29 +1,29 @@
-# <div align="center">welcome to my github.</div>
+# <div align="center">Welcome to my Github.</div>
 
-## <div align="center"> i'm a security researcher, AI/ML architect, & former political operative. i mostly think about MLSecOps, security, & policy. ᏥᏣᎳᎩ.</div>
+## <div align="center"> I am a security researcher, AI/ML architect, & former political operative. MLSecOps, security, & policy. ᏥᏣᎳᎩ.</div>
 
 
 <div align="center">🕷</div>
 
 -------
 
-### <div align="center">follow me on Twitter [@disesdi](https://twitter.com/disesdi) 
+### <div align="center">Follow me on X [@disesdi](https://x.com/disesdi) 
 
 <div align="center"><a href="https://www.twitter.com/disesdi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
 /></a></div>
   
-### <div align="center">and on [LinkedIn](https://www.linkedin.com/in/disesdi/)</div>
+### <div align="center">Follow me on [LinkedIn](https://www.linkedin.com/in/disesdi/)</div>
   
   <div align="center"><a href="https://www.linkedin.com/in/disesdi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></div>
 
 -------
 
-### <div align="center">you can reach me by email at disesdi@pm.me</div>
+### <div align="center">You can reach me by email at disesdi@pm.me</div>
 
-### <div align="center">writing at [anglesofattack.io](https://anglesofattack.io)</div>
+### <div align="center">Writing at [anglesofattack.io](https://anglesofattack.io)</div>
 
-### <div align="center">pronouns: any</div>
+### <div align="center">Pronouns: any</div>
  
 -------
   
@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-# <div align="center">certifications:</div>
+# <div align="center">Certifications:</div>
 
 <div align="center">IBM Advanced Machine Learning and Signal Processing</div>
 <div align="center">IBM Fundamentals of Scalable Data Science</div>
@@ -45,7 +45,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-# <div align="center">a few of my projects:</div>
+# <div align="center">Projects:</div>
 
 
 ### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)</div>
