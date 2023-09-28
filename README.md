@@ -12,7 +12,7 @@
 
 -------
 
-### <div align="center">Follow me on X [@disesdi](https://x.com/disesdi)</div> 
+### <div align="center">Follow me [on X @disesdi](https://x.com/disesdi)</div> 
 
 <div align="center"><a href="https://www.twitter.com/disesdi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
