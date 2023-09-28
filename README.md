@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
 
 -------
 
-### <div align="center">You can reach me by email at disesdi@pm.me</div>
+### <div align="center">Email at disesdi@pm.me</div>
 
 ### <div align="center">Writing at [anglesofattack.io](https://anglesofattack.io)</div>
 
