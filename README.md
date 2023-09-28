@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/disesdi?logo=twitter&style=for-the-ba
   
 -------
 
-# <div align="center">Certifications:</div>
+# <div align="center">Certificates:</div>
 
 <div align="center">IBM Advanced Machine Learning and Signal Processing</div>
 <div align="center">IBM Fundamentals of Scalable Data Science</div>
