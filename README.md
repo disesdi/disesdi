@@ -1,6 +1,6 @@
 # <div align="center">Welcome to my Github.</div>
 
-## <div align="center"> Artificial Intelligence Architect. Security Research. Former Senior Security Engineer, Red Team Lead. MLSecOps, Machine Learning, Security, Policy. ᏥᏣᎳᎩ.</div>
+## <div align="center"> Artificial Intelligence Architect. Former Senior Security Engineer, Red Team Lead. MLSecOps, Machine Learning, Security, Policy. ᏥᏣᎳᎩ.</div>
 
 
 <div align="center">🕷</div>
