@@ -1,6 +1,6 @@
-# <div align="center">Welcome to my Github.</div>
+# <div align="center">Osiyo, my name is Susanna, aka Disesdi.</div>
 
-## <div align="center"> Data Systems Architect @ BobiHealth | Secure, Operationalized, Audited Architecture | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
+## <div align="center"> AI/ML Architect & Security Researcher | Data Systems Architect @ BobiHealth | Secure, Operationalized, Audited Architecture | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
 
 
 <div align="center">🕷</div>
