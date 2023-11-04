@@ -20,11 +20,11 @@
 
 -------
 
-### <div align="center">Email at disesdi@pm.me</div>
+### <div align="center">Email: disesdi@pm.me</div>
 
-### <div align="center">Writing at [mlops.archi](https://mlops.archi/)</div>
+### <div align="center">Writing: [mlops.archi](https://mlops.archi/)</div>
 
-### <div align="center">AI/ML security projects at [anglesofattack.io](https://anglesofattack.io)</div>
+### <div align="center">Security projects: [anglesofattack.io](https://anglesofattack.io)</div>
 
 ### <div align="center">Pronouns: any</div>
  
