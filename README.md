@@ -1,6 +1,6 @@
 # <div align="center">Osiyo! My name is Susanna, aka Disesdi.</div>
 
-## <div align="center"> AI/ML Architect & Security Researcher | Data Systems Architect @ BobiHealth | Secure, Operationalized, Audited Architecture | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
+## <div align="center"> AI/ML Architect & Security Researcher | Data Systems Architect [@ BobiHealth](https://www.bobihealth.com/) | Secure, Operationalized, Audited Architecture | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
 
 
 <div align="center">🕷</div>
@@ -24,7 +24,7 @@
 
 ### <div align="center">Writing at [mlops.archi](https://mlops.archi/)</div>
 
-### <div align="center">AI/ML security projects & resources at [anglesofattack.io](https://anglesofattack.io)</div>
+### <div align="center">AI/ML security projects ++ [anglesofattack.io](https://anglesofattack.io)</div>
 
 ### <div align="center">Pronouns: any</div>
  
