@@ -6,13 +6,6 @@
 <div align="center">🕷</div>
 
 -------
-
-
-### <div align="center">Book time with me [here](https://calendly.com/disesdi).</div> 
-
--------
-
-### <div align="center">Follow me on [X @disesdi](https://x.com/disesdi)</div> 
   
 ### <div align="center">Follow me on [LinkedIn](https://www.linkedin.com/in/disesdi/)</div>
   
@@ -63,25 +56,13 @@
 
 <div align="center">Multi-class password entropy analysis with TF-IDF vectorization and Extreme Gradient Boosting</div>
 
-### <div align="center">[Detecting Cyberattacks In Industrial Control Systems: Ensemble Methods For Binary Classification Of Synchrophasor & Security Logs](https://github.com/disesdi/ics_ensemble)</div>
-
-<div align="center">Exploring cyberattack detection & classification of high-dimensional synchrophasor security log data with machine learning ensemble methods</div>
-
 ### <div align="center">[Evaluating Robustness of Physical Unclonable Functions (PUFs) For Unmanned Aerial System Authentication With Random Forests & Gradient Boosting](https://github.com/disesdi/pufs)</div>
 
 <div align="center">Exploring machine learning attacks on Physical Unclonable Functions (PUFs), a proposed authentication method for resource-constrained and security-vulnerable applications such as Unmanned Aircraft Systems (UAS), and Internet of Things (IOT) devices</div>
   
-### <div align="center">[Steganography Detection with Machine Learning](https://github.com/disesdi/steganography_detection_with_machine_learning)</div>
-
-<div align="center">Scalable functions for detecting malicious Least Significant Bit (LSB) insertion steganography with machine learning</div>
-  
 ### <div align="center">[Semantic Space and Size](https://github.com/disesdi/semantic_space_and_size)</div>
 
 <div align="center">A proof-of-concept for evaluating cultural bias on small corpora using cosine similarity and Word2Vec neural networks, extending the Word Embedding Association Test (WEAT) framework proposed in 2016 by Caliskan et al</div>
-
-### <div align="center">[Echo Sequences with Long Short-Term Memory (LSTM) Networks](https://github.com/disesdi/echo_sequence_lstm)</div>
-
-<div align="center">Demonstrating the persistent memory of recurrent neural network (RNN) Encoder-Decoder LSTMs via their ability to "remember" randomly generated number sequences, with custom-generated data and encoding, implemented with Keras</div>
   
 ### <div align="center">[Auto Axelrod Tournament Generator](https://github.com/disesdi/auto_axelrod)</div>
 
