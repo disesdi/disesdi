@@ -1,6 +1,6 @@
 # <div align="center">Osiyo! My name is Susanna, aka Disesdi.</div>
 
-## <div align="center"> Chief of Data Science [@ BobiHealth](https://www.bobihealth.com/) | AI/ML Architect & Security Researcher | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
+## <div align="center"> Chief Data Officer [@ BobiHealth](https://www.bobihealth.com/) | AI/ML Architect & Security Researcher | MLSecOps, Policy | ᏥᏣᎳᎩ </div>
 
 
 <div align="center">🕷</div>
