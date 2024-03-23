@@ -72,11 +72,10 @@
 
 # <div align="center">Certificates:</div>
 
+
 <div align="center">Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado 8JU6AFZSWSQ2</div> 
 
-
 <div align="center">Digitalisation in Aeronautics - Technical University of Munich CLFHURZT5P27</div> 
-
 
 <div align="center">Palo Alto Networks Cybersecurity Foundations - Palo Alto Networks AKCVN7NW9L2P</div> 
 
