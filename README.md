@@ -15,7 +15,7 @@
 
 ### <div align="center">Email: disesdi@pm.me</div>
 
-### <div align="center">Writing: [mlops.archi](https://mlops.archi/)</div>
+### <div align="center">Writing: [hypr.systems](https://hypr.systems/)</div>
 
 ### <div align="center">Security projects: [anglesofattack.io](https://anglesofattack.io)</div>
 
