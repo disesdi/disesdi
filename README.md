@@ -72,41 +72,41 @@
 
 # Certificates
 
-• Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado 8JU6AFZSWSQ2 
+<div align="center">Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado 8JU6AFZSWSQ2</div> 
 
-• Digitalisation in Aeronautics - Technical University of Munich CLFHURZT5P27 
+<div align="center">Digitalisation in Aeronautics - Technical University of Munich CLFHURZT5P27</div> 
 
-• Palo Alto Networks Cybersecurity Foundations - Palo Alto Networks AKCVN7NW9L2P 
+<div align="center">Palo Alto Networks Cybersecurity Foundations - Palo Alto Networks AKCVN7NW9L2P</div> 
 
-• Cybersecurity Roles, Processes & Operating System Security - IBM XF59TGHNNERG 
+<div align="center">Cybersecurity Roles, Processes & Operating System Security - IBM XF59TGHNNERG</div> 
 
-• Cybersecurity Compliance Framework & System Administration - IBM UNKJ9XW9FBU3 
+<div align="center">Cybersecurity Compliance Framework & System Administration - IBM UNKJ9XW9FBU3</div> 
 
-• Cyber Threat Intelligence - IBM 34BASRB7Q3YH 
+<div align="center">Cyber Threat Intelligence - IBM 34BASRB7Q3YH</div> 
 
-• Penetration Testing, Incident Response and Forensics - IBM FKF2T5CTM8QR 
+<div align="center">Penetration Testing, Incident Response and Forensics - IBM FKF2T5CTM8QR</div> 
 
-• Network Security & Database Vulnerabilities - IBM ESEUHCJ9FCFF 
+<div align="center">Network Security & Database Vulnerabilities - IBM ESEUHCJ9FCFF</div> 
 
-• Python for Active Defense - Infosec B7X8AKXF7NYB 
+<div align="center">Python for Active Defense - Infosec B7X8AKXF7NYB</div> 
 
-• Python for Command-and-control, Exfiltration and Impact - Infosec MA6CWHUF622A 
+<div align="center">Python for Command-and-control, Exfiltration and Impact - Infosec MA6CWHUF622A</div> 
 
-• Credential Access, discovery, lateral movement & collection - Infosec 35UZ965WHBAA 
+<div align="center">Credential Access, discovery, lateral movement & collection - Infosec 35UZ965WHBAA</div> 
 
-• Execution, persistence, privilege escalation and evasion - Infosec 57K8K48WGW73 
+<div align="center">Execution, persistence, privilege escalation and evasion - Infosec 57K8K48WGW73</div> 
 
-• Python for Cybersecurity Specialization - Infosec DGZVN4847K5P 
+<div align="center">Python for Cybersecurity Specialization - Infosec DGZVN4847K5P</div> 
 
-• Security Analyst Fundamentals Specialization - IBM 5TPFXM9NG6MT 
+<div align="center">Security Analyst Fundamentals Specialization - IBM 5TPFXM9NG6MT</div> 
 
-• IT Fundamentals for Cybersecurity Specialization - IBM A2RM3XPTA7FK 
+<div align="center">IT Fundamentals for Cybersecurity Specialization - IBM A2RM3XPTA7FK</div> 
 
-• IBM Cybersecurity Analyst Specialization - IBM R66Q59JPWBL8 
+<div align="center">IBM Cybersecurity Analyst Specialization - IBM R66Q59JPWBL8</div> 
 
-• IBM Fundamentals of Scalable Data Science - IBM HJW55WWBFTCJ 
+<div align="center">IBM Fundamentals of Scalable Data Science - IBM HJW55WWBFTCJ</div> 
 
-• IBM Advanced Machine Learning and Signal Processing - IBM PJYXKUEEC3E4
+<div align="center">IBM Advanced Machine Learning and Signal Processing - IBM PJYXKUEEC3E4</div>
 
 -------
 
