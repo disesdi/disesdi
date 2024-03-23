@@ -73,22 +73,39 @@
 # Certificates
 
 • Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado 8JU6AFZSWSQ2 
+
 • Digitalisation in Aeronautics - Technical University of Munich CLFHURZT5P27 
+
 • Palo Alto Networks Cybersecurity Foundations - Palo Alto Networks AKCVN7NW9L2P 
+
 • Cybersecurity Roles, Processes & Operating System Security - IBM XF59TGHNNERG 
+
 • Cybersecurity Compliance Framework & System Administration - IBM UNKJ9XW9FBU3 
+
 • Cyber Threat Intelligence - IBM 34BASRB7Q3YH 
+
 • Penetration Testing, Incident Response and Forensics - IBM FKF2T5CTM8QR 
+
 • Network Security & Database Vulnerabilities - IBM ESEUHCJ9FCFF 
+
 • Python for Active Defense - Infosec B7X8AKXF7NYB 
+
 • Python for Command-and-control, Exfiltration and Impact - Infosec MA6CWHUF622A 
+
 • Credential Access, discovery, lateral movement & collection - Infosec 35UZ965WHBAA 
+
 • Execution, persistence, privilege escalation and evasion - Infosec 57K8K48WGW73 
+
 • Python for Cybersecurity Specialization - Infosec DGZVN4847K5P 
+
 • Security Analyst Fundamentals Specialization - IBM 5TPFXM9NG6MT 
+
 • IT Fundamentals for Cybersecurity Specialization - IBM A2RM3XPTA7FK 
+
 • IBM Cybersecurity Analyst Specialization - IBM R66Q59JPWBL8 
+
 • IBM Fundamentals of Scalable Data Science - IBM HJW55WWBFTCJ 
+
 • IBM Advanced Machine Learning and Signal Processing - IBM PJYXKUEEC3E4
 
 -------
