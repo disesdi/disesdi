@@ -29,18 +29,6 @@
   
 -------
 
-# <div align="center">Certificates:</div>
-
-<div align="center">IBM Advanced Machine Learning and Signal Processing</div>
-<div align="center">IBM Fundamentals of Scalable Data Science</div>
-<div align="center">IBM Cybersecurity Analyst Professional Certificate</div>
-<div align="center">Python for Cybersecurity Specialization - Infosec Institute</div>
-<div align="center">Palo Alto Networks Cybersecurity Foundations</div>
-<div align="center">Cybersecurity Policy for Aviation and Internet Infrastructures - University of Colorado</div>
-<div align="center">Digitalisation in Aeronautics - Technical University Munich</div>
-  
--------
-
 # <div align="center">Projects:</div>
 
 
