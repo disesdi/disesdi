@@ -1,6 +1,6 @@
 # <div align="center">Osiyo! My name is Susanna, aka Disesdi.</div>
 
-## <div align="center"> Chief Data Officer [@ BobiHealth](https://www.bobihealth.com/) | OWASP AI Exchange Core Team Member | NIST AI Safety Institute Consortium (AISIC) | AI/ML Architect & Security Researcher | Purple Teamer | AISec, Information Warfare, Policy | Native | ᏥᏣᎳᎩ </div>
+## <div align="center"> OWASP AI Exchange Core Team Member | NIST AI Safety Institute Consortium (AISIC) | AI/ML Architect & Security Researcher | Purple Teamer | AISec, Information Warfare, Policy | Native | ᏥᏣᎳᎩ </div>
 
 <div align="center">🕷</div>
 
