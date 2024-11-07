@@ -17,12 +17,6 @@
 ### <div align="center">Personal: [anglesofattack.io](https://anglesofattack.io)</div>
 
 ### <div align="center">Pronouns: any</div>
- 
--------
-  
-<div align="center"><b>My GitHub Stats</b></div>
-
-<div align="center"><a href="http://www.github.com/disesdi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=disesdi&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a></div>
   
 -------
 
