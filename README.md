@@ -1,6 +1,6 @@
-# <div align="center">Osiyo! My name is Susanna, aka Disesdi.</div>
+# <div align="center">ᏗᏎᏍᏗ Disesdi Susanna Cox</div>
 
-## <div align="center"> OWASP AI Exchange Core Team Member | NIST AI Safety Institute Consortium (AISIC) | AI/ML Architect & Security Researcher | Purple Teamer | AISec, Information Warfare, Policy | Native | ᏥᏣᎳᎩ </div>
+## <div align="center">Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Speaker. Author. ᏥᏣᎳᎩ. (any pronouns) </div>
 
 <div align="center">🕷</div>
 
@@ -12,9 +12,9 @@
 
 -------
 
-### <div align="center">Email: disesdi@pm.me</div>
+### <div align="center">Email: susanna@anglesofattack.io</div>
 
-### <div align="center">Security projects: [anglesofattack.io](https://anglesofattack.io)</div>
+### <div align="center">Personal: [anglesofattack.io](https://anglesofattack.io)</div>
 
 ### <div align="center">Pronouns: any</div>
  
