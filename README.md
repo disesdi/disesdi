@@ -1,6 +1,6 @@
 # <div align="center">ᏗᏎᏍᏗ Disesdi Susanna Cox</div>
 
-## <div align="center">Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Speaker. Author. ᏥᏣᎳᎩ. (any pronouns) </div>
+## <div align="center">Safety Critical AI Systems Architect. AI Security patent holder. OWASP AI Exchange Core Author Team. Former Chief Data Officer & Red Team Lead. Cherokee: ᏥᏣᎳᎩ. (any pronouns) </div>
 
 <div align="center">🕷</div>
 
