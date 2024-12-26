@@ -12,7 +12,7 @@
 
 -------
 
-### <div align="center">Email: susanna@anglesofattack.io</div>
+### <div align="center">Email: disesdi.susannacox@owasp.org</div>
 
 ### <div align="center">Personal: [anglesofattack.io](https://anglesofattack.io)</div>
 
