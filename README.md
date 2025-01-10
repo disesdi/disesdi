@@ -23,7 +23,7 @@
 # <div align="center">Projects:</div>
 
 
-### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://anglesofattack.io/Securing_AIML_Systems_in_IW_Cox.pdf)</div>
+### <div align="center">[Securing AIML Systems in the Age of Information Warfare](https://zenodo.org/records/13905972)</div>
 
 <div align="center">An OODA Loop-based game theoretic model of information warfare in AI/ML systems, with boolean-path threat modeling & cyber resiliency metrics, + a secure, operationalized, platform-agnostic, fully audited debiasing architecture adapted to the canonical MLOps development cycle</div>
   
