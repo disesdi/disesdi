@@ -2,8 +2,6 @@
 
 ## <div align="center">AI/ML Security Researcher & Policy Analyst | AI Security Patent Holder | OWASP AI Exchange Core Author Team | AI for Aerospace | Native - Cherokee ᏥᏣᎳᎩ. </div>
 
-<div align="center">🕷</div>
-
 -------
 
  <div align="center"><a href="https://disesdi.substack.com/" target="_blank" rel="noreferrer"><img width="400" height="400" alt="qr-code" src="https://github.com/user-attachments/assets/6a569b25-161f-4a6f-9eb7-55bca676dc5b" /></a></div>
