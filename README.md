@@ -5,6 +5,13 @@
 <div align="center">🕷</div>
 
 -------
+
+[<img width="1024" height="1024" alt="qr-code" src="https://github.com/user-attachments/assets/6a569b25-161f-4a6f-9eb7-55bca676dc5b" />](https://disesdi.substack.com/)
+
+
+### <div align="center">[Angles of Attack: The AI Security Intel Brief](https://disesdi.substack.com/)</div>
+
+-------
   
 ### <div align="center">Follow me on [LinkedIn](https://www.linkedin.com/in/disesdi/)</div>
   
