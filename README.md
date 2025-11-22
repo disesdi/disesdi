@@ -17,8 +17,6 @@
 
 -------
 
-### <div align="center">Email: disesdi.susannacox@owasp.org</div>
-
 ### <div align="center">Personal: [anglesofattack.io](https://anglesofattack.io)</div>
 
 ### <div align="center">Pronouns: any</div>
