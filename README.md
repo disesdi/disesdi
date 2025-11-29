@@ -1,6 +1,6 @@
 # <div align="center">ᏗᏎᏍᏗ Disesdi Susanna Cox 🕷</div>
 
-## <div align="center">AI/ML Security Researcher & Policy Analyst | AI Security Patent Holder | OWASP AI Exchange Core Author Team | AI for Aerospace | Native - Cherokee ᏥᏣᎳᎩ. </div>
+## <div align="center">AI Security & Policy | Patent Holder | OWASP AI Exchange Core Author Team | Building NATSEC+AISEC in stealth | Cherokee ᏥᏣᎳᎩ. </div>
 
 -------
 
